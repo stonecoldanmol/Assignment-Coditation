@@ -1,0 +1,49 @@
+*{
+    background-color: bisque !important;
+}
+.topic {
+    font-family: 'Righteous', cursive;
+    color: black;
+    font-size: 50px !important;
+    text-align: center;    
+}
+.subTopic {
+    font-family: 'Righteous', cursive;
+    color: black;
+    font-size: 20px !important;
+    text-align: center;
+}
+.buttons {
+    text-align: center;
+}
+.btn {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 5px;
+    padding: 10px 50px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: black !important;        
+}
+.space {
+    text-align: center;
+}
+canvas {
+    border: 10px solid #150a1f !important;    
+}
+footer {
+    text-align: center;
+    justify-content: center;
+    height: 40px;
+    background-color: rgb(18, 10, 29);
+    padding-top: 30px;
+    margin-top: 20px !important;   
+  }
+  footer p {
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: 'Righteous', cursive;
+    color: rgb(224, 224, 224) !important; 
+  }
